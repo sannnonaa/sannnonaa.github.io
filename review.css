@@ -1,0 +1,53 @@
+    .header-custom {
+        font-family: fantasy;
+        background: linear-gradient(to right, #b4b4b4, #f8f9fa);
+        padding: 0%;
+    }
+
+    button,
+    .button {
+        padding: 10px 15px;
+        border: none;
+        border-radius: 25px;
+        gap: 5px;
+        font-size: 12px;
+        background-color: #3d2807;
+        color: white;
+        margin-top: 3%;
+    }
+
+    .list-group {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    h1 {
+        font-size: 25px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: bold;
+        color: #666;
+        margin: 0%;
+    }
+
+    h2 {
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #8d8d8d;
+        margin: 0%;
+    }
+
+    p {
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-weight: bold;
+        margin: 0%;
+    }
+
+    b {
+        font-size: 12px;
+        font-family: 'Courier New', Courier, monospace;
+        margin-top: 2%;
+    }

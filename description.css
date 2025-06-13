@@ -1,0 +1,76 @@
+    .header-custom {
+        font-family: fantasy;
+        background: linear-gradient(to right, #b4b4b4, #f8f9fa);
+        padding: 0%;
+    }
+
+    button,
+    .button {
+        padding: 10px 15px;
+        border: none;
+        border-radius: 25px;
+        gap: 5px;
+        font-size: 12px;
+        background-color: #c7c7c7;
+        color: rgb(78, 77, 77);
+        margin-top: 3%;
+    }
+
+    .list-group {
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .comment-input input[type="text"] {
+        padding: 20px 15px;
+        width: 96%;
+        font-size: 14px;
+        border: 2px solid #000;
+        border-radius: 5px;
+        flex: 1;
+        outline: none;
+    }
+
+    .time {
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #666;
+    }
+
+    h1 {
+        font-size: 25px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: bold;
+        color: #666;
+        margin: 0%;
+    }
+
+    h2 {
+        font-size: 14px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #8d8d8d;
+        margin: 0%;
+    }
+
+    h3 {
+        font-size: 25px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: #000000;
+        margin: 0%;
+    }
+
+    p {
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-weight: bold;
+        margin: 0%;
+    }
+
+    b {
+        font-size: 12px;
+        font-family: 'Courier New', Courier, monospace;
+        margin-bottom: 10%;
+    }
